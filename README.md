@@ -38,4 +38,4 @@ Cristhian Henrique Clementino
 
 Fabio Pena Vieira
 
-Lucca Bertolini (RM 569552)
+Lucca Bertolini
