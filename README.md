@@ -1,5 +1,5 @@
 Sobre o Projeto
-O ChargeGrid Intelligence e um ecossistema de software desenvolvido para o GoodWe Challenge 2026. O projeto foi concebido para viabilizar e acelerar a expansão das soluções de recarga da GoodWe do ambiente residencial para o cenário comercial de grande escala.
+O ChargeGrid Intelligence é um ecossistema de software desenvolvido para o GoodWe Challenge 2026. O projeto foi concebido para viabilizar e acelerar a expansão das soluções de recarga da GoodWe do ambiente residencial para o cenário comercial de grande escala.
 
 Esta Sprint 2 consolida-se na entrega de uma Prova de Conceito (PoC) funcional, desenvolvida inteiramente em Python. O foco central da solução e mitigar por completo os riscos de sobrecarga na rede elétrica de estabelecimentos comerciais causados pelo carregamento simultâneo de múltiplos veículos elétricos (EVs), garantindo ao mesmo tempo a interoperabilidade de dados e a automação financeira.
 
